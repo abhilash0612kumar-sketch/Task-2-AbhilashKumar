@@ -1,2 +1,1 @@
-# Task-2-AbhilashKumar
-This is the repo which contains the 2nd project of the internship given by decodelabs. also i adivse you to when checking the protype instead of going into the preview when you click on the prototype option beside the design you will find a flow option beside the design in the canvas. 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/U3VM1Y1m6cylloNJBMV7jc/wireframe?node-id=0-1&embed-host=share" allowfullscreen></iframe>
